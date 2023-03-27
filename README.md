@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A Results-driven Web Developer</h3>
 
-<div align="center">
-	<a href="https://github.com/reza-sadeghzadeh/cool-snake-motion">
- 		<img src="https://github.com/reza-sadeghzadeh/cool-snake-motion/blob/main/snake-motion.svg" alt="Reza Sadeghzadeh" />
-	</a>
-</div>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
